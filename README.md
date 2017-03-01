@@ -1,4 +1,4 @@
-# CMS_Admin-_Bootstrap_project
+# CMS_Admin_Bootstrap_project
 Traversy Media: CMS Admin Bootstrap YouTube Tutorial
 
 Published on Jan 3, 2017
