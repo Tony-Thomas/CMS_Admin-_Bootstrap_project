@@ -17,7 +17,7 @@
  }
 
  .navbar-default {
-  background-color: #e74c3c;
+  background-color: rgba(231, 76, 60, 1.0);
   border-color: #c0392b;
 }
 .navbar-default .navbar-brand {
@@ -76,7 +76,7 @@
 .main-color-bg {
 	background-color: #e74c3c !important;
   	border-color: #c0392b !important;
-  	color: ffffff;
+  	color: #ffffff !important;
 }
 
 
@@ -103,7 +103,18 @@
 }
 
 .breadcrumb a {
-	color: #333333;
+	color: #333333;  
+}
+
+/* Progress Bar */
+
+.progress-bar {
+	background: #333333;
+	color: #ffffff;
+}
+
+.dash-box {
+  text-align: center;
 }
 
 
